@@ -11,3 +11,4 @@ Additional information:
 With the download comes an image with the coin that is being collected.
 You only have to run the installer.bat file once.
 Press q or ctrl + alt + delete to cancel the program and stop collecting coins.
+A warning should pop up during the install since I am an unknown developer, feel free to inspect the code yourself. It is not a virus.
